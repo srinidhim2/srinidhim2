@@ -1,4 +1,4 @@
-Hi! My name is Srinidhi M
+<b>Hi! My name is Srinidhi M</b>
 <!-- ------------------------- -->
 Like to learn new things.
 <!-- ------------------------- -->
