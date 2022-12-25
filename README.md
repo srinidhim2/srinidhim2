@@ -4,8 +4,8 @@ Hi! My name is Srinidhi M
 
 Like to learn new things.
 -------------------------
-
-* 🌍  I'm based in Tumkur
+* 🎓  Studying Computer Science and Engineering in AIET
+* 🌍  I'm based in Tumkur
 * 🖥️  See my portfolio at [MyPortfolio](http://srinidhim2.github.io/)
 * ✉️  You can contact me at [shrinidhi3398@gmail.com](mailto:shrinidhi3398@gmail.com)
 
