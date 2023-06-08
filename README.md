@@ -4,7 +4,7 @@ Like to learn new things.
 <!-- ------------------------- -->
 * 🎓  Studying Computer Science and Engineering in AIET
 * 🌍  I'm based in Tumkur
-* 🖥️  See my portfolio at [MyPortfolio](http://srinidhim2.github.io/)
+<!-- * 🖥️  See my portfolio at [MyPortfolio](http://srinidhim2.github.io/) -->
 * ✉️  You can contact me at [shrinidhi3398@gmail.com](mailto:shrinidhi3398@gmail.com)
 ### Skills
 <p align="left">
